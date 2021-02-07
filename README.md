@@ -1,4 +1,4 @@
-# Video Edit Functions
+# Video Edit and Transcription Functions
 
 There are two notebooks here. 
 - One is a collectin of video edit functions handy when editting together demo videos.
